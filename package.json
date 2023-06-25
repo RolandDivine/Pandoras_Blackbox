@@ -1,1 +1,30 @@
+{
+  "name": "pandoras-black-box",
+  "version": "1.0.0",
+  "description": "Smart contract for Pandora's Black Box dark pool",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "deploy": "truffle migrate --reset"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pandoras-black-box.git"
+  },
+  "keywords": [
+    "ethereum",
+    "smart contracts",
+    "dark pool",
+    "blockchain"
+  ],
+  "author": "Dev_Roland",
+  "license": "MIT",
+  "devDependencies": {
+    "truffle": "^5.4.0",
+    "truffle-hdwallet-provider": "^1.4.0"
+  }
+}
 
