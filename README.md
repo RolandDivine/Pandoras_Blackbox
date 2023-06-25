@@ -1,6 +1,6 @@
 # Pandora's Black Box
 
-![Logo](https://drive.google.com/file/d/1WNdXhRos1Y991YnXpoSsOVVwM2zjy1tL/view?usp=drivesdk_)
+![Logo](https://github.com/RolandDivine/Pandoras_Blackbox/blob/a5d3155704fd160036ef8b86a520f4c8980a633b/4A258C33-E64E-48D3-9D31-28AB5F38B9BD.jpeg)
 
 Pandora's Black Box is an innovative decentralized finance (DeFi) project that brings the concept of dark pools from traditional finance to the blockchain. It provides institutional investors with a secure and private platform for facilitating large trades while minimizing market impact and maintaining confidentiality.
 
