@@ -1,5 +1,3 @@
-Sure! Here's a sample README.md file for the "Pandora's Black Box" project:
-
 # Pandora's Black Box
 
 ![Logo](https://drive.google.com/file/d/1WNdXhRos1Y991YnXpoSsOVVwM2zjy1tL/view?usp=drivesdk_)
@@ -46,8 +44,5 @@ Visit our website [www.pandorasblackbox.com](https://www.pandorasblackbox.com) f
 
 ## Acknowledgments
 
-We would like to express our gratitude to the open-source community and the developers who have contributed to the tools and libraries used in Pandora's Black Box.
-
----
-
-Feel free to customize the content, add relevant sections, and include any additional information that you find necessary for your "Pandora's Black Box" project.
+We would like to express our gratitude to the open-source community and the developers who have contributed to the tools and libraries used in Pandora's Black 
+ 
